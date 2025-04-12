@@ -1,3 +1,5 @@
+from data import reservation, planification, temps_par_troncon
+
 def planifier_voiture(nom, chemin):
     t_depart = 0
     while True:
@@ -10,7 +12,6 @@ def planifier_voiture(nom, chemin):
             arrivee = chemin[i + 1]
             troncon = (depart, arrivee)
 
-            # Vérifier si ce tronçon est déjà réservé à ce moment
             if troncon in reservation and t_courant in reservation[troncon]:
                 conflit = True
                 break
@@ -19,7 +20,6 @@ def planifier_voiture(nom, chemin):
             t_courant += temps_par_troncon
 
         if not conflit:
-            # Réserver les tronçons
             for troncon, t in traj_planifie:
                 if troncon not in reservation:
                     reservation[troncon] = {}
