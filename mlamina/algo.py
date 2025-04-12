@@ -1,5 +1,6 @@
 import random
 from utils import path_length, selection, crossover, mutate, fix_path, extract_weights_from_path
+import tqdm
 
 def generate_random_path(graph, start, end):
     path = [start]
@@ -26,7 +27,7 @@ def generate_initial_population(graph, start, end, size):
 def genetic_algorithm(graph, start, end, pop_size, generations):
     population = generate_initial_population(graph, start, end, pop_size)
 
-    for gen in range(generations):
+    for gen in tqdm.tqdm(range(generations)):
         scores = [path_length(graph, p) for p in population]
         new_population = []
 

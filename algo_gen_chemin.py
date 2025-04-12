@@ -1,5 +1,6 @@
 import random
 
+# Manomnoka eto le algorithme génétique chemin le plus court
 graph = {
     'Mopera': {'villa69': 6, 'C': 4},
     'villa69': {'Mopera': 6, 'C': 1, 'D': 7},
@@ -124,10 +125,11 @@ def genetic_algorithm(graph, start, end, pop_size, generations):
 
 # Exécution
 best_path, best_score = genetic_algorithm(graph, START, END, POPULATION_SIZE, GENERATIONS)
-
 weights = extract_weights_from_path(graph, best_path)
 
 print("Meilleur chemin :", best_path)
 print("Poids entre les nœuds :", weights)
 print("Longueur du chemin :", best_score)
+
+
 
