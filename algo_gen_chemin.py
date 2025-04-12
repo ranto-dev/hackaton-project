@@ -28,7 +28,7 @@ def generate_random_path(graph, start, end):
         visited.add(current)
     return path
 
-# Générer la population initiale
+# Générer la population initiale avec un size individu 
 def generate_initial_population(graph, start, end, size):
     population = []
     while len(population) < size:
@@ -37,7 +37,7 @@ def generate_initial_population(graph, start, end, size):
             population.append(path)
     return population
 
-# Évaluer le score (fitness) d'un chemin
+# Évaluer le score, avec la fonction fitness, d'un chemin
 def path_length(graph, path):
     total = 0
     for i in range(len(path) - 1):

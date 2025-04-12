@@ -1,18 +1,18 @@
 # Mivezivezy tsara
 
-
+- 
 
 - Information à traiter
 
 ```json
 {
-    "latitude": 23232, // mlay
-    "longitude": 34342, // mlay
+    "latitude": 23232,
+    "longitude": 34342,
     "accuracy": 4323,
     "altitude": 3434,
     "timestamps": 3432,
-    "speed":, // Rapidité
-    "bearing": 343, // Angle
+    "speed":, 
+    "bearing": 343,
 }
 ``
 ```

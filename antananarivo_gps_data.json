@@ -1,0 +1,902 @@
+[
+    {
+        "latitude": -18.930774,
+        "longitude": 47.576806,
+        "accuracy": 17.62,
+        "altitude": 1362.88,
+        "timestamps": 1744455237,
+        "speed": 2.33,
+        "bearing": 155.32
+    },
+    {
+        "latitude": -18.927798,
+        "longitude": 47.59296,
+        "accuracy": 9.31,
+        "altitude": 1374.54,
+        "timestamps": 1744461816,
+        "speed": 7.59,
+        "bearing": 271.98
+    },
+    {
+        "latitude": -18.879699,
+        "longitude": 47.454303,
+        "accuracy": 49.86,
+        "altitude": 1319.82,
+        "timestamps": 1744466600,
+        "speed": 7.78,
+        "bearing": 1.18
+    },
+    {
+        "latitude": -18.916225,
+        "longitude": 47.471568,
+        "accuracy": 21.65,
+        "altitude": 1424.11,
+        "timestamps": 1744460767,
+        "speed": 14.86,
+        "bearing": 121.89
+    },
+    {
+        "latitude": -18.919792,
+        "longitude": 47.58543,
+        "accuracy": 33.88,
+        "altitude": 1264.46,
+        "timestamps": 1744451677,
+        "speed": 4.55,
+        "bearing": 191.57
+    },
+    {
+        "latitude": -18.816169,
+        "longitude": 47.573527,
+        "accuracy": 28.04,
+        "altitude": 1235.13,
+        "timestamps": 1744464569,
+        "speed": 13.23,
+        "bearing": 336.87
+    },
+    {
+        "latitude": -18.809053,
+        "longitude": 47.520329,
+        "accuracy": 31.54,
+        "altitude": 1276.68,
+        "timestamps": 1744455029,
+        "speed": 0.15,
+        "bearing": 159.57
+    },
+    {
+        "latitude": -18.900974,
+        "longitude": 47.544383,
+        "accuracy": 12.48,
+        "altitude": 1214.68,
+        "timestamps": 1744462651,
+        "speed": 0.79,
+        "bearing": 75.45
+    },
+    {
+        "latitude": -18.872048,
+        "longitude": 47.494568,
+        "accuracy": 13.92,
+        "altitude": 1418.42,
+        "timestamps": 1744467673,
+        "speed": 3.16,
+        "bearing": 115.04
+    },
+    {
+        "latitude": -18.906577,
+        "longitude": 47.532545,
+        "accuracy": 6.93,
+        "altitude": 1291.73,
+        "timestamps": 1744458385,
+        "speed": 4.62,
+        "bearing": 303.16
+    },
+    {
+        "latitude": -18.872816,
+        "longitude": 47.593311,
+        "accuracy": 22.1,
+        "altitude": 1356.63,
+        "timestamps": 1744463963,
+        "speed": 7.02,
+        "bearing": 7.89
+    },
+    {
+        "latitude": -18.843645,
+        "longitude": 47.565463,
+        "accuracy": 30.54,
+        "altitude": 1267.4,
+        "timestamps": 1744467675,
+        "speed": 0.31,
+        "bearing": 302.25
+    },
+    {
+        "latitude": -18.885819,
+        "longitude": 47.530494,
+        "accuracy": 45.43,
+        "altitude": 1354.76,
+        "timestamps": 1744462818,
+        "speed": 14.31,
+        "bearing": 51.3
+    },
+    {
+        "latitude": -18.910805,
+        "longitude": 47.516256,
+        "accuracy": 38.81,
+        "altitude": 1240.26,
+        "timestamps": 1744457709,
+        "speed": 0.01,
+        "bearing": 235.17
+    },
+    {
+        "latitude": -18.822643,
+        "longitude": 47.451577,
+        "accuracy": 43.78,
+        "altitude": 1439.27,
+        "timestamps": 1744449834,
+        "speed": 4.11,
+        "bearing": 30.76
+    },
+    {
+        "latitude": -18.808872,
+        "longitude": 47.475246,
+        "accuracy": 28.31,
+        "altitude": 1299.63,
+        "timestamps": 1744453024,
+        "speed": 9.17,
+        "bearing": 350.11
+    },
+    {
+        "latitude": -18.829743,
+        "longitude": 47.480402,
+        "accuracy": 31.59,
+        "altitude": 1423.86,
+        "timestamps": 1744465064,
+        "speed": 7.83,
+        "bearing": 284.51
+    },
+    {
+        "latitude": -18.90072,
+        "longitude": 47.489135,
+        "accuracy": 41.3,
+        "altitude": 1337.41,
+        "timestamps": 1744462749,
+        "speed": 2.15,
+        "bearing": 333.18
+    },
+    {
+        "latitude": -18.81898,
+        "longitude": 47.552283,
+        "accuracy": 19.43,
+        "altitude": 1302.79,
+        "timestamps": 1744463462,
+        "speed": 11.25,
+        "bearing": 68.95
+    },
+    {
+        "latitude": -18.812824,
+        "longitude": 47.488234,
+        "accuracy": 49.78,
+        "altitude": 1493.92,
+        "timestamps": 1744460535,
+        "speed": 3.84,
+        "bearing": 40.09
+    },
+    {
+        "latitude": -18.803466,
+        "longitude": 47.540763,
+        "accuracy": 38.08,
+        "altitude": 1405.42,
+        "timestamps": 1744464268,
+        "speed": 10.44,
+        "bearing": 212.99
+    },
+    {
+        "latitude": -18.8889,
+        "longitude": 47.473856,
+        "accuracy": 44.64,
+        "altitude": 1305.08,
+        "timestamps": 1744455390,
+        "speed": 8.09,
+        "bearing": 143.37
+    },
+    {
+        "latitude": -18.824267,
+        "longitude": 47.525662,
+        "accuracy": 6.81,
+        "altitude": 1367.72,
+        "timestamps": 1744463795,
+        "speed": 2.1,
+        "bearing": 299.2
+    },
+    {
+        "latitude": -18.817108,
+        "longitude": 47.524155,
+        "accuracy": 47.32,
+        "altitude": 1319.78,
+        "timestamps": 1744448802,
+        "speed": 6.75,
+        "bearing": 17.21
+    },
+    {
+        "latitude": -18.816059,
+        "longitude": 47.457185,
+        "accuracy": 11.01,
+        "altitude": 1467.63,
+        "timestamps": 1744467636,
+        "speed": 0.29,
+        "bearing": 160.07
+    },
+    {
+        "latitude": -18.859012,
+        "longitude": 47.464064,
+        "accuracy": 14.25,
+        "altitude": 1441.91,
+        "timestamps": 1744460658,
+        "speed": 3.16,
+        "bearing": 227.09
+    },
+    {
+        "latitude": -18.931264,
+        "longitude": 47.543597,
+        "accuracy": 16.21,
+        "altitude": 1435.82,
+        "timestamps": 1744453623,
+        "speed": 10.53,
+        "bearing": 150.18
+    },
+    {
+        "latitude": -18.888443,
+        "longitude": 47.498935,
+        "accuracy": 35.45,
+        "altitude": 1361.48,
+        "timestamps": 1744460587,
+        "speed": 3.28,
+        "bearing": 61.57
+    },
+    {
+        "latitude": -18.836547,
+        "longitude": 47.594759,
+        "accuracy": 12.35,
+        "altitude": 1474.16,
+        "timestamps": 1744452954,
+        "speed": 9.53,
+        "bearing": 354.46
+    },
+    {
+        "latitude": -18.853425,
+        "longitude": 47.51313,
+        "accuracy": 40.52,
+        "altitude": 1411.07,
+        "timestamps": 1744458395,
+        "speed": 12.97,
+        "bearing": 79.11
+    },
+    {
+        "latitude": -18.912932,
+        "longitude": 47.478309,
+        "accuracy": 41.4,
+        "altitude": 1425.77,
+        "timestamps": 1744459223,
+        "speed": 8.48,
+        "bearing": 142.75
+    },
+    {
+        "latitude": -18.868449,
+        "longitude": 47.464239,
+        "accuracy": 45.65,
+        "altitude": 1286.45,
+        "timestamps": 1744458505,
+        "speed": 13.05,
+        "bearing": 328.97
+    },
+    {
+        "latitude": -18.888941,
+        "longitude": 47.533652,
+        "accuracy": 36.03,
+        "altitude": 1358.29,
+        "timestamps": 1744458770,
+        "speed": 10.26,
+        "bearing": 289.1
+    },
+    {
+        "latitude": -18.921488,
+        "longitude": 47.582694,
+        "accuracy": 45.79,
+        "altitude": 1479.21,
+        "timestamps": 1744463293,
+        "speed": 4.78,
+        "bearing": 293.08
+    },
+    {
+        "latitude": -18.863563,
+        "longitude": 47.455923,
+        "accuracy": 34.69,
+        "altitude": 1235.43,
+        "timestamps": 1744455302,
+        "speed": 7.14,
+        "bearing": 32.62
+    },
+    {
+        "latitude": -18.868181,
+        "longitude": 47.478941,
+        "accuracy": 13.15,
+        "altitude": 1460.19,
+        "timestamps": 1744459163,
+        "speed": 0.94,
+        "bearing": 143.63
+    },
+    {
+        "latitude": -18.810595,
+        "longitude": 47.522786,
+        "accuracy": 33.41,
+        "altitude": 1238.73,
+        "timestamps": 1744447982,
+        "speed": 2.25,
+        "bearing": 335.69
+    },
+    {
+        "latitude": -18.903641,
+        "longitude": 47.47109,
+        "accuracy": 29.62,
+        "altitude": 1239.77,
+        "timestamps": 1744450942,
+        "speed": 10.72,
+        "bearing": 0.46
+    },
+    {
+        "latitude": -18.880883,
+        "longitude": 47.54447,
+        "accuracy": 18.26,
+        "altitude": 1281.65,
+        "timestamps": 1744455354,
+        "speed": 0.28,
+        "bearing": 28.4
+    },
+    {
+        "latitude": -18.881135,
+        "longitude": 47.48745,
+        "accuracy": 23.04,
+        "altitude": 1392.9,
+        "timestamps": 1744467861,
+        "speed": 8.53,
+        "bearing": 268.57
+    },
+    {
+        "latitude": -18.855013,
+        "longitude": 47.546255,
+        "accuracy": 9.4,
+        "altitude": 1280.58,
+        "timestamps": 1744465489,
+        "speed": 7.81,
+        "bearing": 100.08
+    },
+    {
+        "latitude": -18.921071,
+        "longitude": 47.511969,
+        "accuracy": 28.2,
+        "altitude": 1315.74,
+        "timestamps": 1744452996,
+        "speed": 0.41,
+        "bearing": 90.5
+    },
+    {
+        "latitude": -18.814051,
+        "longitude": 47.495334,
+        "accuracy": 6.82,
+        "altitude": 1346.32,
+        "timestamps": 1744448251,
+        "speed": 8.84,
+        "bearing": 142.82
+    },
+    {
+        "latitude": -18.802163,
+        "longitude": 47.587423,
+        "accuracy": 27.74,
+        "altitude": 1279.44,
+        "timestamps": 1744451832,
+        "speed": 10.84,
+        "bearing": 348.76
+    },
+    {
+        "latitude": -18.879219,
+        "longitude": 47.584958,
+        "accuracy": 7.34,
+        "altitude": 1364.94,
+        "timestamps": 1744452421,
+        "speed": 14.14,
+        "bearing": 147.0
+    },
+    {
+        "latitude": -18.92155,
+        "longitude": 47.470894,
+        "accuracy": 7.73,
+        "altitude": 1314.45,
+        "timestamps": 1744462123,
+        "speed": 2.59,
+        "bearing": 206.59
+    },
+    {
+        "latitude": -18.896414,
+        "longitude": 47.567313,
+        "accuracy": 47.13,
+        "altitude": 1486.97,
+        "timestamps": 1744464218,
+        "speed": 13.58,
+        "bearing": 290.63
+    },
+    {
+        "latitude": -18.828982,
+        "longitude": 47.459797,
+        "accuracy": 8.0,
+        "altitude": 1295.72,
+        "timestamps": 1744467625,
+        "speed": 8.98,
+        "bearing": 1.63
+    },
+    {
+        "latitude": -18.828138,
+        "longitude": 47.494521,
+        "accuracy": 41.38,
+        "altitude": 1465.53,
+        "timestamps": 1744465354,
+        "speed": 6.77,
+        "bearing": 345.25
+    },
+    {
+        "latitude": -18.947474,
+        "longitude": 47.512752,
+        "accuracy": 30.97,
+        "altitude": 1491.57,
+        "timestamps": 1744455837,
+        "speed": 11.23,
+        "bearing": 265.07
+    },
+    {
+        "latitude": -18.880989,
+        "longitude": 47.54588,
+        "accuracy": 43.76,
+        "altitude": 1414.59,
+        "timestamps": 1744459876,
+        "speed": 14.09,
+        "bearing": 98.69
+    },
+    {
+        "latitude": -18.844287,
+        "longitude": 47.483701,
+        "accuracy": 42.41,
+        "altitude": 1464.69,
+        "timestamps": 1744462309,
+        "speed": 8.6,
+        "bearing": 242.68
+    },
+    {
+        "latitude": -18.90563,
+        "longitude": 47.593268,
+        "accuracy": 6.48,
+        "altitude": 1316.36,
+        "timestamps": 1744455164,
+        "speed": 14.58,
+        "bearing": 340.28
+    },
+    {
+        "latitude": -18.841692,
+        "longitude": 47.452959,
+        "accuracy": 30.65,
+        "altitude": 1322.28,
+        "timestamps": 1744450364,
+        "speed": 11.69,
+        "bearing": 273.75
+    },
+    {
+        "latitude": -18.803132,
+        "longitude": 47.456578,
+        "accuracy": 8.95,
+        "altitude": 1231.39,
+        "timestamps": 1744455862,
+        "speed": 12.75,
+        "bearing": 171.66
+    },
+    {
+        "latitude": -18.905855,
+        "longitude": 47.589563,
+        "accuracy": 21.62,
+        "altitude": 1245.39,
+        "timestamps": 1744447884,
+        "speed": 3.7,
+        "bearing": 262.71
+    },
+    {
+        "latitude": -18.934949,
+        "longitude": 47.50299,
+        "accuracy": 26.42,
+        "altitude": 1235.76,
+        "timestamps": 1744449782,
+        "speed": 8.52,
+        "bearing": 284.76
+    },
+    {
+        "latitude": -18.856645,
+        "longitude": 47.580275,
+        "accuracy": 38.79,
+        "altitude": 1286.95,
+        "timestamps": 1744464134,
+        "speed": 7.1,
+        "bearing": 70.2
+    },
+    {
+        "latitude": -18.942468,
+        "longitude": 47.479318,
+        "accuracy": 17.55,
+        "altitude": 1200.45,
+        "timestamps": 1744451035,
+        "speed": 7.74,
+        "bearing": 32.93
+    },
+    {
+        "latitude": -18.912411,
+        "longitude": 47.550383,
+        "accuracy": 10.06,
+        "altitude": 1280.78,
+        "timestamps": 1744460547,
+        "speed": 8.06,
+        "bearing": 38.99
+    },
+    {
+        "latitude": -18.855195,
+        "longitude": 47.47641,
+        "accuracy": 25.69,
+        "altitude": 1431.4,
+        "timestamps": 1744457652,
+        "speed": 6.93,
+        "bearing": 4.16
+    },
+    {
+        "latitude": -18.819238,
+        "longitude": 47.514233,
+        "accuracy": 49.53,
+        "altitude": 1473.19,
+        "timestamps": 1744459871,
+        "speed": 0.71,
+        "bearing": 342.32
+    },
+    {
+        "latitude": -18.888595,
+        "longitude": 47.551694,
+        "accuracy": 27.82,
+        "altitude": 1405.29,
+        "timestamps": 1744461939,
+        "speed": 13.86,
+        "bearing": 129.78
+    },
+    {
+        "latitude": -18.947007,
+        "longitude": 47.55151,
+        "accuracy": 46.08,
+        "altitude": 1493.32,
+        "timestamps": 1744449862,
+        "speed": 9.28,
+        "bearing": 262.67
+    },
+    {
+        "latitude": -18.939418,
+        "longitude": 47.543742,
+        "accuracy": 42.97,
+        "altitude": 1360.76,
+        "timestamps": 1744466365,
+        "speed": 6.2,
+        "bearing": 208.95
+    },
+    {
+        "latitude": -18.943657,
+        "longitude": 47.57633,
+        "accuracy": 45.03,
+        "altitude": 1417.45,
+        "timestamps": 1744449567,
+        "speed": 14.86,
+        "bearing": 47.65
+    },
+    {
+        "latitude": -18.943926,
+        "longitude": 47.523976,
+        "accuracy": 45.99,
+        "altitude": 1297.6,
+        "timestamps": 1744464313,
+        "speed": 0.5,
+        "bearing": 302.03
+    },
+    {
+        "latitude": -18.846503,
+        "longitude": 47.51001,
+        "accuracy": 20.45,
+        "altitude": 1403.84,
+        "timestamps": 1744464174,
+        "speed": 13.06,
+        "bearing": 165.13
+    },
+    {
+        "latitude": -18.826352,
+        "longitude": 47.586513,
+        "accuracy": 14.92,
+        "altitude": 1381.22,
+        "timestamps": 1744456230,
+        "speed": 8.19,
+        "bearing": 104.06
+    },
+    {
+        "latitude": -18.949917,
+        "longitude": 47.497168,
+        "accuracy": 28.57,
+        "altitude": 1397.35,
+        "timestamps": 1744449780,
+        "speed": 11.51,
+        "bearing": 78.81
+    },
+    {
+        "latitude": -18.818196,
+        "longitude": 47.566269,
+        "accuracy": 25.35,
+        "altitude": 1492.52,
+        "timestamps": 1744455841,
+        "speed": 8.67,
+        "bearing": 57.66
+    },
+    {
+        "latitude": -18.907835,
+        "longitude": 47.543115,
+        "accuracy": 9.1,
+        "altitude": 1364.27,
+        "timestamps": 1744454878,
+        "speed": 4.94,
+        "bearing": 291.37
+    },
+    {
+        "latitude": -18.826744,
+        "longitude": 47.509683,
+        "accuracy": 43.71,
+        "altitude": 1386.74,
+        "timestamps": 1744448768,
+        "speed": 3.87,
+        "bearing": 301.46
+    },
+    {
+        "latitude": -18.923236,
+        "longitude": 47.495014,
+        "accuracy": 27.98,
+        "altitude": 1233.66,
+        "timestamps": 1744451741,
+        "speed": 4.18,
+        "bearing": 160.79
+    },
+    {
+        "latitude": -18.853472,
+        "longitude": 47.553493,
+        "accuracy": 42.92,
+        "altitude": 1294.55,
+        "timestamps": 1744456586,
+        "speed": 0.99,
+        "bearing": 277.23
+    },
+    {
+        "latitude": -18.877276,
+        "longitude": 47.560743,
+        "accuracy": 15.69,
+        "altitude": 1462.09,
+        "timestamps": 1744454764,
+        "speed": 14.03,
+        "bearing": 104.05
+    },
+    {
+        "latitude": -18.869311,
+        "longitude": 47.491332,
+        "accuracy": 26.15,
+        "altitude": 1431.08,
+        "timestamps": 1744450656,
+        "speed": 13.39,
+        "bearing": 272.72
+    },
+    {
+        "latitude": -18.813463,
+        "longitude": 47.468112,
+        "accuracy": 39.54,
+        "altitude": 1257.1,
+        "timestamps": 1744457159,
+        "speed": 14.22,
+        "bearing": 169.86
+    },
+    {
+        "latitude": -18.910004,
+        "longitude": 47.52593,
+        "accuracy": 18.08,
+        "altitude": 1478.39,
+        "timestamps": 1744451242,
+        "speed": 10.43,
+        "bearing": 83.25
+    },
+    {
+        "latitude": -18.924492,
+        "longitude": 47.453836,
+        "accuracy": 28.2,
+        "altitude": 1257.9,
+        "timestamps": 1744466416,
+        "speed": 9.78,
+        "bearing": 126.9
+    },
+    {
+        "latitude": -18.918563,
+        "longitude": 47.514407,
+        "accuracy": 7.31,
+        "altitude": 1493.66,
+        "timestamps": 1744453028,
+        "speed": 4.65,
+        "bearing": 81.09
+    },
+    {
+        "latitude": -18.905394,
+        "longitude": 47.576589,
+        "accuracy": 15.18,
+        "altitude": 1378.3,
+        "timestamps": 1744459873,
+        "speed": 1.36,
+        "bearing": 267.74
+    },
+    {
+        "latitude": -18.937448,
+        "longitude": 47.569777,
+        "accuracy": 42.47,
+        "altitude": 1396.54,
+        "timestamps": 1744465359,
+        "speed": 6.1,
+        "bearing": 58.83
+    },
+    {
+        "latitude": -18.929448,
+        "longitude": 47.526468,
+        "accuracy": 14.39,
+        "altitude": 1365.76,
+        "timestamps": 1744457148,
+        "speed": 0.01,
+        "bearing": 285.48
+    },
+    {
+        "latitude": -18.883117,
+        "longitude": 47.537988,
+        "accuracy": 19.12,
+        "altitude": 1294.87,
+        "timestamps": 1744454574,
+        "speed": 4.74,
+        "bearing": 359.76
+    },
+    {
+        "latitude": -18.811666,
+        "longitude": 47.472738,
+        "accuracy": 21.28,
+        "altitude": 1475.45,
+        "timestamps": 1744460415,
+        "speed": 3.45,
+        "bearing": 114.89
+    },
+    {
+        "latitude": -18.948184,
+        "longitude": 47.487014,
+        "accuracy": 9.8,
+        "altitude": 1237.55,
+        "timestamps": 1744448766,
+        "speed": 6.4,
+        "bearing": 287.65
+    },
+    {
+        "latitude": -18.814176,
+        "longitude": 47.497879,
+        "accuracy": 46.98,
+        "altitude": 1315.49,
+        "timestamps": 1744448080,
+        "speed": 11.47,
+        "bearing": 90.05
+    },
+    {
+        "latitude": -18.83641,
+        "longitude": 47.452191,
+        "accuracy": 18.07,
+        "altitude": 1386.5,
+        "timestamps": 1744455596,
+        "speed": 1.08,
+        "bearing": 130.81
+    },
+    {
+        "latitude": -18.822449,
+        "longitude": 47.582114,
+        "accuracy": 46.56,
+        "altitude": 1406.94,
+        "timestamps": 1744466042,
+        "speed": 4.2,
+        "bearing": 212.08
+    },
+    {
+        "latitude": -18.848279,
+        "longitude": 47.569891,
+        "accuracy": 29.28,
+        "altitude": 1245.63,
+        "timestamps": 1744466058,
+        "speed": 6.93,
+        "bearing": 46.4
+    },
+    {
+        "latitude": -18.825496,
+        "longitude": 47.496967,
+        "accuracy": 34.15,
+        "altitude": 1402.01,
+        "timestamps": 1744457210,
+        "speed": 7.87,
+        "bearing": 157.74
+    },
+    {
+        "latitude": -18.820997,
+        "longitude": 47.520046,
+        "accuracy": 6.77,
+        "altitude": 1278.17,
+        "timestamps": 1744459334,
+        "speed": 0.81,
+        "bearing": 29.11
+    },
+    {
+        "latitude": -18.8086,
+        "longitude": 47.596937,
+        "accuracy": 37.7,
+        "altitude": 1242.73,
+        "timestamps": 1744450310,
+        "speed": 4.46,
+        "bearing": 325.83
+    },
+    {
+        "latitude": -18.930732,
+        "longitude": 47.543571,
+        "accuracy": 47.36,
+        "altitude": 1239.61,
+        "timestamps": 1744456043,
+        "speed": 14.84,
+        "bearing": 183.75
+    },
+    {
+        "latitude": -18.817376,
+        "longitude": 47.458205,
+        "accuracy": 15.0,
+        "altitude": 1216.55,
+        "timestamps": 1744456416,
+        "speed": 14.78,
+        "bearing": 174.34
+    },
+    {
+        "latitude": -18.917371,
+        "longitude": 47.528845,
+        "accuracy": 19.56,
+        "altitude": 1311.19,
+        "timestamps": 1744463440,
+        "speed": 7.72,
+        "bearing": 96.2
+    },
+    {
+        "latitude": -18.874772,
+        "longitude": 47.575774,
+        "accuracy": 46.0,
+        "altitude": 1446.31,
+        "timestamps": 1744455534,
+        "speed": 2.92,
+        "bearing": 275.57
+    },
+    {
+        "latitude": -18.913426,
+        "longitude": 47.508758,
+        "accuracy": 13.92,
+        "altitude": 1210.27,
+        "timestamps": 1744462131,
+        "speed": 3.23,
+        "bearing": 161.42
+    },
+    {
+        "latitude": -18.831227,
+        "longitude": 47.516073,
+        "accuracy": 19.47,
+        "altitude": 1385.3,
+        "timestamps": 1744461576,
+        "speed": 5.73,
+        "bearing": 302.37
+    }
+]
