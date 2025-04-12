@@ -12,7 +12,7 @@ def planifier_voiture(nom, chemin):
             arrivee = chemin[i + 1]
             troncon = (depart, arrivee)
 
-            if troncon in reservation and t_courant in reservation[troncon]:
+            if troncon in reservation and t_courant in reservation:
                 conflit = True
                 break
 
@@ -21,9 +21,10 @@ def planifier_voiture(nom, chemin):
 
         if not conflit:
             for troncon, t in traj_planifie:
+                print(troncon)
                 if troncon not in reservation:
-                    reservation[troncon] = {}
-                reservation[troncon][t] = nom
+                    reservation.append(troncon)
+                # reservation[troncon][t] = nom
             planification[nom] = traj_planifie
             break
         else:

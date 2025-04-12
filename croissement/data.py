@@ -30,19 +30,13 @@ import json
 # }
 
 temps_par_troncon = 1
-reservation = {}
+reservation = []
 planification = {}
 
 with open('./data.json', 'r', encoding='utf-8') as file:
     res = json.load(file)
 
-for voiture in res:
-    print(voiture)
-
 trajets = {}
 
 for idx, value in enumerate(res):
     trajets[f'V{idx}'] = value['geometry']
-
-for i in trajets:
-    print("trajet: ", i, trajets[i])
