@@ -1,19 +1,7 @@
-from algo import genetic_algorithm
-from utils import extract_weights_from_path
-from graph import graph
+from chemin_court import chemin_court
 
-START = "Mopera"
-END = "SmartOne"
+best_path, weights, best_score = chemin_court()
 
-# Les hyper-paramètre
-POPULATION_SIZE = 50
-GENERATIONS = 10000 # 
-
-def main():
-    best_path, best_score = genetic_algorithm(graph, START, END, POPULATION_SIZE, GENERATIONS)
-    weights = extract_weights_from_path(graph, best_path)
-    print("Meilleur chemin: ", best_path)
-    print("Les poids de chaque noeud: ", weights)
-    print("Poids entre les neuds: ", best_score)
-
-main()
+print("Best path: ", best_path)
+print("Weights: ", weights)
+print("Best score: ", best_score)
